@@ -1,12 +1,12 @@
-## Hi there # 👋 Hi, I'm Ayoub Rechouk
+# I'm Ayoub Rechouk
 
-🎓 Computer Science student | 💼 Open to work & internships
+ Computer Science student | Open to work & internships
 
 I'm a passionate developer actively looking for opportunities — whether it's an internship, part-time role, or freelance project. I love building things on the web and working with data.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages & Databases**
 
@@ -17,15 +17,15 @@ I'm a passionate developer actively looking for opportunities — whether it's a
 
 ---
 
-## 🌱 Currently
+##  Currently
 
-- 🔭 Working on web projects using **PHP**, **JavaScript**, and **MySQL**
-- 📚 Deepening my knowledge in **Python** and backend development
-- 💼 Actively looking for a **job or internship** (student-friendly!)
+- Working on web projects using **PHP**, **JavaScript**, and **MySQL**
+- Deepening my knowledge in **Python** and backend development
+- Actively looking for a **job or internship** (student-friendly!)
 
 ---
 
-## 💬 Ask me about
+## Ask me about
 
 - Building dynamic web apps with **PHP + MySQL**
 - Scripting and automation with **Python**
@@ -33,7 +33,7 @@ I'm a passionate developer actively looking for opportunities — whether it's a
 
 ---
 
-## 📫 Reach me
+## Reach me
 
 [![GitHub](https://img.shields.io/badge/GitHub-ayoubrechouk-181717?style=flat&logo=github)](https://github.com/ayoubrechouk)
 
