@@ -16,7 +16,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 
 ---
-- Actively looking for a **job or internship** (student-friendly!)
+- Actively looking for a **job or internship**
 
 ---
 
